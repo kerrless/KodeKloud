@@ -8,4 +8,5 @@ Resources:
       TTL: '900'
       ResourceRecords:
       - 192.168.0.1
+      - 192.168.0.2
     
